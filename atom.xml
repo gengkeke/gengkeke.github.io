@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>耿可可的博客</title>
+  
+  <subtitle>耿可可的博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://gengkeke.cc/"/>
+  <updated>2019-11-26T03:00:25.384Z</updated>
+  <id>https://gengkeke.cc/</id>
+  
+  <author>
+    <name>耿可可</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>yarn 错误There appears to be trouble with your network connection</title>
+    <link href="https://gengkeke.cc/2019/11/26/yarn-network-connection/"/>
+    <id>https://gengkeke.cc/2019/11/26/yarn-network-connection/</id>
+    <published>2019-11-26T03:00:05.000Z</published>
+    <updated>2019-11-26T03:00:25.384Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;yarn 错误There appears to be trouble with your network connection. Retrying..&lt;/p&gt;
+&lt;p&gt;原因：yarn超时&lt;/p&gt;
+&lt;p&gt;解决途径：&lt;br&gt;1、安装好后更换淘宝镜像&lt;/p&gt;
+&lt;pre
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot启动时 提示没有主清单属性</title>
+    <link href="https://gengkeke.cc/2019/11/26/main-list-attribute/"/>
+    <id>https://gengkeke.cc/2019/11/26/main-list-attribute/</id>
+    <published>2019-11-26T02:58:45.000Z</published>
+    <updated>2019-11-26T02:59:16.598Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre class=&quot;line-numbers language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Intellij IDEA运行报 Command line is too long</title>
+    <link href="https://gengkeke.cc/2019/11/25/command-line-is-too-long/"/>
+    <id>https://gengkeke.cc/2019/11/25/command-line-is-too-long/</id>
+    <published>2019-11-25T09:08:39.000Z</published>
+    <updated>2019-11-25T09:16:37.752Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;修改项目下 .idea\workspace.xml，&lt;br&gt;找到标签 &lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="IDEA" scheme="https://gengkeke.cc/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="https://gengkeke.cc/tags/IDEA/"/>
+    
+  </entry>
+  
+</feed>
